@@ -1,6 +1,4 @@
-# Poligem — Generative Engine Optimization Map
-
-> A diamonds and jewelry business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -36,17 +34,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Poligem
-Poligem is a business in the diamonds and jewelry industry.
-
-## Target Audience
-- Luxury Jewelry Retailers
-- Custom Jewelry Designers
-- High-Net-Worth Individuals
-
-## Industry
-diamonds and jewelry
-
+## About Business
 ---
 
 # Additional Resources
